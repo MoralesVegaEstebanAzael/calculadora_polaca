@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Postfija
+comment1.params=x
+comment1.target=boolean\ evalua(char)
+comment2.params=x
+comment2.target=int\ orden(char)
+comment3.params=x
+comment3.target=void\ pilaOperadores(char)
+comment4.params=
+comment4.target=void\ vaciar()
+comment5.params=expre
+comment5.target=java.lang.String\ recibe(java.lang.String)
+numComments=6
